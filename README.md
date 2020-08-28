@@ -13,22 +13,34 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+Pokemon Fight Simulator 2k20 is a incredible amazing awesome battle game.
+Choose your pokemon and fight against other pokemons! 
+Catch them all!
 
 ## Rules
-Briefly describe the rules of the game.
+- Player must choose the Pokemon from Pokemons that he has
+- Pokemons are cute
+- You can cheat (if you manage to)
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+
+- Plan of project using a Trello template and hard Trello skills
+- Fork of the repository 
+- Brainstorming key features of the game
+- Edit of README file
+- Super professional coding
+- Making the presentation
+- Testing the game
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
 
-What does your repository look like? Explain your folder and file structure.
+We used Trello to organise our work.
+
+Project has 1 Jupyter Notebook file.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Diagb/Pokemon_game)  
+[Slides](https://docs.google.com/presentation/d/1ppO94SJxDZrlrl0kPnQb90KPhFIm9nHzv5RzE7yBLOE/edit?usp=sharing)  
+[Trello](https://trello.com/b/scrP4Ufk/project1-pokemon-game)
