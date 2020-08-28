@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Pokemon Game
+*Igor and Diagou*
 
-*[Your Cohort, Campus & Date]*
+*[DATA - Paris - 28/08/20]*
 
 ## Content
 - [Project Description](#project-description)
