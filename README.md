@@ -8,6 +8,7 @@
 ## Content
 - [Project Description](#project-description)
 - [Rules](#rules)
+- [Mechanics](#mechanics)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
@@ -21,6 +22,13 @@ Catch them all!
 - Player must choose the Pokemon from Pokemons that he has
 - Pokemons are cute
 - You can cheat (if you manage to)
+
+## Mechanics
+- Player chooses a pokemon from a list
+- Computer chooses randomly his opponent
+- Player has a right to choose from several powers to attack
+- Computer also attacks
+- When health bar goes below 0, someone wins
 
 ## Workflow
 
